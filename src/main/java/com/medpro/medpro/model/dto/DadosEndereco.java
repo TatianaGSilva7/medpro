@@ -3,7 +3,7 @@ package com.medpro.medpro.model.dto;
 public record DadosEndereco(
     String logradouro,
     String bairro,
-    String ce,
+    String cep,
     String cidade,
     String uf,
     String numero,
